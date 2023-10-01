@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 **Operating System** & **Front End Dev**
 
 ## ⛅Let's get social... 
--[OptimusZhang@outlook.com]  or [22207709@ucdconnect.ie]  
-  
-  Thanks for stopping by, and feel free to reach out if you'd like to collaborate!
+- OptimusZhang@outlook.com  
+- wenyue.zhang@ucdconnect.ie 
+---
+Thanks for stopping by, happy coding!
+
