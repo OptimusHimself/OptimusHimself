@@ -1,3 +1,8 @@
+# Hello, world! 🤞  
+
+My name is Opting, and I'm a IoT student!  
+  
+  Here is a bit about me:  
 - 👋 Hi, I’m @OptimusHimself
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
@@ -10,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 📖what i'm currently learning...
-[Operating System][CS]
+**Operating System** & **Front End Dev**
 
 ## ⛅Let's get social... 
 -[OptimusZhang@outlook.com]  or [22207709@ucdconnect.ie]  
