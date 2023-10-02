@@ -3,6 +3,7 @@
 My name is Opting, and I'm a IoT student!  
   
   Here is a bit about me:  
+
 - 👋 Hi, I’m @OptimusHimself
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
@@ -14,12 +15,14 @@ OptimusHimself/OptimusHimself is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-## 📖what i'm currently learning...
+## 📖what i'm currently learning
+
 **Operating System** & **Front End Dev**
 
-## ⛅Let's get social... 
-- OptimusZhang@outlook.com  
-- wenyue.zhang@ucdconnect.ie 
+## ⛅Let's get social
+
+- <OptimusZhang@outlook.com>  
+- <wenyue.zhang@ucdconnect.ie>
+
 ---
 Thanks for stopping by, happy coding!
-
