@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 **Operating System** & **Front End Dev**
 
-## ⛅Let's get social
+## ⛅Let's get social...
 
 - <OptimusZhang@outlook.com>  
 - <wenyue.zhang@ucdconnect.ie>
